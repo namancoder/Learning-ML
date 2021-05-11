@@ -1,7 +1,7 @@
 # Learning-ML
 
-- [Exploratory Data Analysis of Iris Flower Data Set](#heading)
-- [EDA of Haberman Dataset](#heading)
+ - [Exploratory Data Analysis of Iris Flower Data Set](#heading)
+ - [EDA of Haberman Dataset](#heading)
 
 
 
@@ -10,7 +10,8 @@
 <!-- toc -->
 
 ## Exploratory Data Analysis of Iris Flower Data Set
-> Univariate(PDF,CDF,BoxPlot,Violin Plot) and bivariate form(Scatter, PairPlot) of analysis
+
+Univariate(PDF,CDF,BoxPlot,Violin Plot) and bivariate form(Scatter, PairPlot) of analysis
 
 ## Haberman Survival Data
 
