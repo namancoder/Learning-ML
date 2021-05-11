@@ -1,7 +1,7 @@
 # Learning-ML
 
--[Exploratory Data Analysis of Iris Flower Data Set](#heading)
--[EDA of Haberman Dataset](#heading-1)
+- [Exploratory Data Analysis of Iris Flower Data Set](#heading)
+- [EDA of Haberman Dataset](#heading-1)
 
 
 
