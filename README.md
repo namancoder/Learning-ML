@@ -44,34 +44,10 @@ Missing Attribute Values: None
 
 Univariate(PDF,CDF,BoxPlot,Violin Plot) and bivariate form(Scatter, PairPlot) of analysis
 
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
-
 ## Heading
 
 This is an h1 heading
 
-### Sub-heading
 
-This is an h2 heading
 
-#### Sub-sub-heading
 
-This is an h3 heading
-
-## Heading
-
-This is an h1 heading
-
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
