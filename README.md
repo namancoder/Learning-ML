@@ -9,14 +9,14 @@
 
 
 
-- [Exploratory Data Analysis of Iris Flower Data Set](#heading)
+- [Exploratory Data Analysis of Iris Flower Data Set](#Exploratory Data Analysis of Iris Flower Data Set)
 - [Haberman Survival Dataset](#heading-1)
 
 
 
 <!-- toc -->
 
-## One
+## Exploratory Data Analysis of Iris Flower Data Set
 
 Univariate(PDF,CDF,BoxPlot,Violin Plot) and bivariate form(Scatter, PairPlot) of analysis
 
