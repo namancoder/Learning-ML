@@ -29,15 +29,9 @@ Survival status (class attribute)
 2 = the patient died within 5 year
 Missing Attribute Values: None
 
-- [Kuch Bhi](#heading)
-  * [Sub-heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
+- [Exploratory Data Analysis of Iris Flower Data Set](#heading)
 - [Heading](#heading-1)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
-- [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
+
 
 
 # Heading levels
