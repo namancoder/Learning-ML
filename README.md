@@ -10,17 +10,17 @@
 
 
 - [Exploratory Data Analysis of Iris Flower Data Set](#heading)
-- [Heading](#heading-1)
+- [Haberman Survival Dataset](#heading-1)
 
 
 
 <!-- toc -->
 
-## Heading
+## Exploratory Data Analysis of Iris Flower Data Set
 
 Univariate(PDF,CDF,BoxPlot,Violin Plot) and bivariate form(Scatter, PairPlot) of analysis
 
-## Heading
+## Haberman Survival Dataset
 
 Number of Instances: 306
 
