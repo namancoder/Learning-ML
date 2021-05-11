@@ -16,7 +16,7 @@
 
 <!-- toc -->
 
-## Exploratory_Data_Analysis_of_Iris_Flower_Data_Set
+## Heading
 
 Univariate(PDF,CDF,BoxPlot,Violin Plot) and bivariate form(Scatter, PairPlot) of analysis
 
