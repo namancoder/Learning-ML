@@ -42,7 +42,7 @@ Missing Attribute Values: None
 
 ## Heading
 
-This is an h1 heading
+Univariate(PDF,CDF,BoxPlot,Violin Plot) and bivariate form(Scatter, PairPlot) of analysis
 
 ### Sub-heading
 
