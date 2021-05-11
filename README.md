@@ -4,12 +4,8 @@
 
 
 
-# Heading levels
-
-> This is a fixture to test heading levels
 
 <!-- toc -->
 
-## Heading
-
-This is an h1 heading
+##(#heading) 
+Univariate(PDF,CDF,BoxPlot,Violin Plot) and bivariate form(Scatter, PairPlot) of analysis
