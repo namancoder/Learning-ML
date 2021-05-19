@@ -13,6 +13,7 @@
 - [Haberman Survival Dataset](#Haberman_Survival_Dataset)
 - [Probability & Statistic](#Probability_and_Statistics)
 - [Visualization and Dimensionality Reduction](#Visualization_and_Dimensionality_Reduction)
+  * [Principal Component Analysis](#Principal_Component_Analysis)
 
 
 
@@ -47,5 +48,8 @@ Central Limit theorem,Confidence Interval,  Power Law, Q-Q Plots,Chebyshevs Ineq
 
 ## Visualization_and_Dimensionality_Reduction
 Handled the 784 dimension MNIST dataset(felt pretty cool actually😍)
+
+### Principal_Component_Analysis
+On it
 
 
