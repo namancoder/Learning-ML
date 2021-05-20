@@ -11,6 +11,9 @@
 
 - [Exploratory Data Analysis of Iris Flower Data Set](#Exploratory_Data_Analysis_of_Iris_Flower_Data_Set)
 - [Haberman Survival Dataset](#Haberman_Survival_Dataset)
+- [Probability & Statistic](#Probability_and_Statistics)
+- [Visualization and Dimensionality Reduction](#Visualization_and_Dimensionality_Reduction)
+  * [Principal Component Analysis](#Principal_Component_Analysis)
 
 
 
@@ -37,5 +40,16 @@ Survival status (class attribute)
 Missing Attribute Values: None
 
 [Kaggle Link] (https://www.kaggle.com/devilbenign/haberman-ds)
+
+## Probability_and_Statistics
+Learnt so many mathematical theorems and distributions like Gaussian,Uniform,Bernoulli,Binomial,Log Normal,Pareta.
+
+Central Limit theorem,Confidence Interval,  Power Law, Q-Q Plots,Chebyshevs Inequality, Hypothesis Testing , KS-Test,,Resampling & Permutation Test.
+
+## Visualization_and_Dimensionality_Reduction
+Handled the 784 dimension MNIST dataset(felt pretty cool actually😍)
+
+### Principal_Component_Analysis
+On it
 
 
