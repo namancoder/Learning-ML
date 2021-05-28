@@ -13,7 +13,8 @@
 - [Haberman Survival Dataset](#Haberman_Survival_Dataset)
 - [Probability & Statistic](#Probability_and_Statistics)
 - [Visualization and Dimensionality Reduction](#Visualization_and_Dimensionality_Reduction)
-  * [Principal Component Analysis](#Principal_Component_Analysis)
+- [NLP AND ML Foundation](#NLP_AND_ML)
+  * [KNN](#KNN)
 
 
 
@@ -49,7 +50,17 @@ Central Limit theorem,Confidence Interval,  Power Law, Q-Q Plots,Chebyshevs Ineq
 ## Visualization_and_Dimensionality_Reduction
 Handled the 784 dimension MNIST dataset(felt pretty cool actually😍)
 
-### Principal_Component_Analysis
-On it
+Also learnt about Data Preprocessing which is a must porcess before data analysis
+Columnn Normalization and Standardization
+PCA and t-SNE for Dimensionality Reduction
+
+## NLP_AND_ML
+Currently learning about classification and regreesion algo KNN
+
+### KNN
+Cosine Similarity & Distance ,Types of distances, Effectiveness, Over & Under-Fitting , Simple & K-Fold Cross Validation , Timebase splitting ,Weighted KNN , KD-Tree , Locality Sensitive Hashing for Cosine Similarity and Euclidean Distance.
+[NOTEBOOK](https://colab.research.google.com/drive/1CGUdnslVkKD_7sjaqyIXmOmYXJj9SEAC?usp=sharing)
+
+
 
 
