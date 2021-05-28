@@ -48,10 +48,12 @@ Learnt so many mathematical theorems and distributions like Gaussian,Uniform,Ber
 Central Limit theorem,Confidence Interval,  Power Law, Q-Q Plots,Chebyshevs Inequality, Hypothesis Testing , KS-Test,,Resampling & Permutation Test.
 
 ## Visualization_and_Dimensionality_Reduction
-Handled the 784 dimension MNIST dataset(felt pretty cool actually😍)
+Handled the 784 dimension MNIST dataset(felt pretty cool actually😍)\
+
 
 Also learnt about Data Preprocessing which is a must porcess before data analysis
-Columnn Normalization and Standardization
+Columnn Normalization and Standardization\
+
 PCA and t-SNE for Dimensionality Reduction
 
 ## NLP_AND_ML
