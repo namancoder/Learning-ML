@@ -58,6 +58,8 @@ PCA and t-SNE for Dimensionality Reduction
 
 ## NLP_AND_ML
 Currently learning about classification and regreesion algo KNN
+[TF-IDF Implementation withot SkLearn](https://colab.research.google.com/drive/12Kf8PEo2QxH7rOLo79mKaiMt9US6iugJ?usp=sharing)
+
 
 ### KNN
 Cosine Similarity & Distance ,Types of distances, Effectiveness, Over & Under-Fitting , Simple & K-Fold Cross Validation , Timebase splitting ,Weighted KNN , KD-Tree , Locality Sensitive Hashing for Cosine Similarity and Euclidean Distance.
