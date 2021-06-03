@@ -54,6 +54,8 @@ Handled the 784 dimension MNIST dataset(felt pretty cool actually😍)\
 Also learnt about Data Preprocessing which is a must porcess before data analysis
 Columnn Normalization and Standardization\
 
+also worked on FASHION MNIST dataset which is the "Hello world" of modern ML ---> [LINK](https://colab.research.google.com/drive/1rwWiZGjYylAeVQvbbGgYvo4GM9S5-FMy?usp=sharing)
+
 PCA and t-SNE for Dimensionality Reduction
 
 ## NLP_AND_ML
