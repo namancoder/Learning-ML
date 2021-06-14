@@ -68,9 +68,9 @@ Cosine Similarity & Distance ,Types of distances, Effectiveness, Over & Under-Fi
 
 ------------------
 ## DEEP_LEARNING
- - Playing with MNIST Data Set using Sequential Model and Adam optimizer, also used CallBacks [Link]()
- - Using Convolutions in our DNN to better the accuracy (2 Conv2d layers and MaxPooling) 
- - Real World images classfication (happy or Sad dataset -40 Happy & 40 Sad) preprocessing with ImageDataGenerator where target_size = (150,150
+ - Playing with MNIST Data Set using Sequential Model and Adam optimizer, also used CallBacks [Link](https://colab.research.google.com/drive/1muhthbKZF3Q6PzSuPVhqTh6th2kurZd7?usp=sharing)
+ - Using Convolutions in our DNN to better the accuracy (2 Conv2d layers and MaxPooling) [Link](https://colab.research.google.com/drive/10n-aNhjhqy88C1A7NAtyt2fYeeMuMW5b?usp=sharing)
+ - Real World images classfication (happy or Sad dataset -40 Happy & 40 Sad) preprocessing with ImageDataGenerator where target_size = (150,150) [Link](https://colab.research.google.com/drive/1tA9JvhlTMbcH1c92j7viL-amrxEZBMCp?usp=sharing)
  
 
 
